@@ -55,8 +55,6 @@ This project helped me strengthen my C# and WinForms skills by learning how to:
 ### 📋 Main Window (Password Manager)
 <img src="./pass1.png" alt="Main Form" width="500"/>
 
-*(Save screenshots in a `screenshots/` folder and update file names as needed)*
-
 ---
 
 ## 📂 Structure
